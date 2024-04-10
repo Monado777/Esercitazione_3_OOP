@@ -47,7 +47,6 @@ public:
     {
         CustomComplexNumber z(real, -imag);
         return z;
-        // return CustomComplexNumber(real, -1*imag);
     }
 };
 
